@@ -6,7 +6,6 @@ Enjoys:
 
 * Spending time with my family
 * Tinkering in Python
-* Creating impactful products for [@gojektech](https://github.com/gojektech)
 * A good basketball game
 * Listening and playing music
 
